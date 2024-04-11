@@ -17,4 +17,4 @@ print(decoder('90123'))
 
 #def encode written by Alexander
 def encoder(string):
-    pass
+   
